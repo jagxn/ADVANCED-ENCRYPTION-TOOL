@@ -18,3 +18,10 @@ This Python script provides secure file encryption and decryption using AES-256-
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/47a561c6-2c05-458b-8515-eeb567d448e9)
+
+![Image](https://github.com/user-attachments/assets/92910dfe-0bcd-4f6b-a06c-6c0b48413dd7)
+
+![Image](https://github.com/user-attachments/assets/f397a142-8965-425f-9072-9bcb644d4508)
+
+![Image](https://github.com/user-attachments/assets/8629bc80-ef6a-4927-b943-a3464f85e238)
